@@ -1,0 +1,7 @@
+<resources>
+    <string name="paired_devices">Dispositivos Pareados</string>
+    <string name="search_devices">Encontrando dispositivos…</string>
+    <string name="empty">vazio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

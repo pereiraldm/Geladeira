@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BluetoothLunexTest</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="main_fragment_label">Main Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="conectar">Conectar</string>
+    <string name="lista_de_dispositivos">Lista de dispositivos</string>
+    <string name="textview"> </string>
+    <string name="avancado">    Avançado</string>
+    <string name="padaria">Neutro</string>
+    <string name="acougue">Quente</string>
+    <string name="refrigerador">Frio</string>
+    <string name="todo">TODO</string>
+</resources>
